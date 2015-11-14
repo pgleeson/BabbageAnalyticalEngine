@@ -13,7 +13,7 @@
     ],
     "geppettoModel": {
         "id": 99,
-        "url": "file:///home/padraig/git/BabbageAnalyticalEngine/Geppetto/GEPPETTO.xml",
+        "url": "https://raw.githubusercontent.com/pgleeson/BabbageAnalyticalEngine/master/Geppetto/GEPPETTO.xml",
         "type": "GEPPETTO_PROJECT"
     }
 }

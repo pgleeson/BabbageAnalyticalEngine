@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  
-Project.loadFromURL('file:///home/padraig/git/BabbageAnalyticalEngine/Geppetto/99.json')
+Project.loadFromURL('https://raw.githubusercontent.com/pgleeson/BabbageAnalyticalEngine/master/Geppetto/99.json')
+
+or 
+
+http://localhost:8080/org.geppetto.frontend/geppetto?load_project_from_url=https://raw.githubusercontent.com/pgleeson/BabbageAnalyticalEngine/master/Geppetto/99.json
+
+or
+
+http://localhost:8080/org.geppetto.frontend/geppetto?load_project_from_url=https://raw.githubusercontent.com/pgleeson/BabbageAnalyticalEngine/master/Geppetto/99.json
+
 -->
 <tns:geppettoModel xmlns:tns="http://www.openworm.org/simulationSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openworm.org/simulationSchema ../../main/resources/schema/simulation/simulationSchema.xsd">
 	<tns:entity>
@@ -9,7 +18,7 @@ Project.loadFromURL('file:///home/padraig/git/BabbageAnalyticalEngine/Geppetto/9
 			<tns:id>physical</tns:id>
 			<tns:model>
     				<tns:modelInterpreterId>objModelInterpreterService</tns:modelInterpreterId>
-    				<tns:modelURL>file:///home/padraig/git/BabbageAnalyticalEngine/Geppetto/anticipatingCarriage.obj</tns:modelURL>
+    				<tns:modelURL>https://raw.githubusercontent.com/pgleeson/BabbageAnalyticalEngine/master/Geppetto/anticipatingCarriage.obj</tns:modelURL>
 			</tns:model>
 		</tns:aspect>		
 	</tns:entity>
