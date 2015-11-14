@@ -1,0 +1,19 @@
+{
+    "id": 99,
+    "name": "Anticipating Carriage",
+    "activeExperimentId": 1,
+    "experiments": [
+        {
+            "id": 1,
+            "name": "Some gears",
+            "status": "COMPLETED",
+            description : "Test",
+            "aspectConfigurations": []
+        }
+    ],
+    "geppettoModel": {
+        "id": 99,
+        "url": "file:///home/padraig/git/BabbageAnalyticalEngine/Geppetto/GEPPETTO.xml",
+        "type": "GEPPETTO_PROJECT"
+    }
+}

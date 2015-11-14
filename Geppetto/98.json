@@ -1,0 +1,20 @@
+{
+    "id": 98,
+    "name": "Simplified engine",
+    "activeExperimentId": 1,
+    "experiments": [
+        {
+            "id": 1,
+            "name": "simplifiedEngine",
+            "status": "COMPLETED",
+            description : "Test",
+            "script": "file:///home/padraig/geppetto/org.geppetto.core/src/main/resources/projects/BabbageLovelace/script.js",
+            "aspectConfigurations": []
+        }
+    ],
+    "geppettoModel": {
+        "id": 98,
+        "url": "file:///home/padraig/geppetto/org.geppetto.core/src/main/resources/projects/BabbageLovelace/GEPPETTO2.xml",
+        "type": "GEPPETTO_PROJECT"
+    }
+}
